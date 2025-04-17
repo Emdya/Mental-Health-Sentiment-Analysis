@@ -118,4 +118,3 @@ pip install nltk scikit-learn pandas
 
 ---
 
-Let me know if you want a version for your **LinkedIn**, a **PDF report**, or a **poster-style summary** for a class or portfolio!
